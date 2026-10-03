@@ -15,7 +15,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.6-flash"
 
 st.title("📄 AI Resume ATS Analyzer")
 st.caption(
